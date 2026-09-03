@@ -1,0 +1,14 @@
+body{
+    background-image: url("earthPlanet.png");
+    background-size: 1800px;
+    text-align: center;
+}
+
+.wolrd{
+    background-color: grey;
+    width: 70%;
+    border-radius: 50px;
+    max-width: 900px;
+    border: 3px solid black;
+    margin: 30px auto;
+}
