@@ -1,4 +1,22 @@
 body{
+    background-position: center;
     background-color: gray;
     text-align: center;
+    background-size: cover;
+    margin: 0;
+}
+
+button{
+    background-color: yellow;
+}
+
+.portifolio{
+    background-color: darkcyan;
+    margin: 90px;
+    max-width: 5000px;
+}
+
+h1{
+    text-shadow: 50px;
+    margin: 60px;
 }
