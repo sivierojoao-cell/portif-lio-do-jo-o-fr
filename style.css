@@ -1,4 +1,5 @@
 body{
+
     background-position: center;
     background-color: gray;
     text-align: center;
@@ -8,12 +9,20 @@ body{
 
 button{
     background-color: yellow;
+    border: 9px;
+    border-style: groove;
+    border-color: yellow;
+    border-radius: 20px;
+
 }
 
 .portifolio{
-    background-color: darkcyan;
+    background-color: gray;
     margin: 90px;
     max-width: 5000px;
+    border: 10px;
+    border-style: groove;
+    border-radius: 50px;
 }
 
 h1{
