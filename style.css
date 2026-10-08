@@ -1,31 +1,51 @@
 body{
-
-    background-position: center;
+    margin: auto;
     background-color: gray;
-    text-align: center;
+
     background-size: cover;
-    margin: 0;
+}
+
+main{
+    margin: auto;
+    text-align: center;
 }
 
 button{
     background-color: yellow;
-    border: 9px;
-    border-style: groove;
-    border-color: yellow;
-    border-radius: 20px;
-
 }
 
 .portifolio{
-    background-color: gray;
+    text-align: center;
+    background-color: greenyellow;
     margin: 90px;
     max-width: 5000px;
-    border: 10px;
     border-style: groove;
-    border-radius: 50px;
+    border-color: red;
 }
 
 h1{
     text-shadow: 50px;
     margin: 60px;
+}
+
+img{
+    border-radius: 30px;
+    width: 100px;
+}
+
+p:hover{
+    background-color: aqua;
+    transform: scale(2.0);
+    margin: 0;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p{
+    background-color: aqua;
+    max-width: 20%;
+    padding: 20px 0;
+    color: white;
+    margin:15px auto;
 }

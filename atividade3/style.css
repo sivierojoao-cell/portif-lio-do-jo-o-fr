@@ -1,11 +1,4 @@
 body{
     background-color: gray;
     text-align: center;
-    border: 5px;
-    border-style: groove;
-    border-radius: 30px;
-}
-
-button{
-    background-color: cadetblue;
 }
