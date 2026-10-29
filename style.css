@@ -1,13 +1,13 @@
 body{
     margin: auto;
-    background-color: black;
+    background-color: white;
     text-align: center;
     background-size: cover;
 }
 
 .portifolio{
     text-align: center;
-    background-color: black;
+    background-color: gray;
     margin: 90px;
     max-width: 5000px;
     border-style: groove;

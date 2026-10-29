@@ -11,4 +11,5 @@ function parouimpar(){
      }else{
           alert("O número " + numero + " é ÌMPAR. ");
      }
+     
 }
