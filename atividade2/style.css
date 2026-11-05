@@ -13,3 +13,24 @@ body{
     border-color: blue;
 
 }
+
+.voltar {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+
+    background-color: red;
+    color: white;
+    text-decoration: none;
+
+    padding: 15px 25px;
+    border: 2px solid blue;
+    border-radius: 10px;
+
+    font-size: 16px;
+    z-index: 1000;
+}
+
+.voltar:hover {
+    background-color: darkred;
+}
