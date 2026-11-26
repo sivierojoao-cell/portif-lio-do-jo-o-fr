@@ -11,6 +11,6 @@ function calcular(){
     if(resultado <= 0){
         alert("parabêns! Você esta aprovado.");
     } else {
-        alert("Você precissa se esforçar mais seu burro, você precissa tirar " + resultado + " no terceiro trimestre para ser aprovado.");
+        alert("você precissa tirar " + resultado + " no terceiro trimestre para ser aprovado.");
     }
 }
